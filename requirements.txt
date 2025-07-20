@@ -1,0 +1,8 @@
+TensorFlow, 
+Keras, 
+NumPy,
+ Pandas,
+ Pillow,
+matplotlib,
+tqdm,
+pickle
